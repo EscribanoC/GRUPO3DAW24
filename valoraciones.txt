@@ -1,0 +1,14 @@
+- Integrante 1: Carlos Escribano Flores
+
+En general ha sido bastante fácil pero he tenido problemas a la hora de realizar la conexión de local a remoto
+con el comando 'git remote add origin' puesto que me notificaba conflicto con la rama remota aún no teniendo ningún
+tipo de contenido cuando realizaba el 'git push' y el 'git push origin main'. Finalmente decidí realizar una 
+clonación a la rama de GitHub con 'git clone git@github.com:EscribanoC/GRUPO3DAW24.git' (SSH) para que la rama en la
+que me encontrase de forma local fuera la misma que la rama remota y no hubiera conflicto con los ficheros y directorios.
+
+Por otro lado git no permite subir directorios vacíos asi que tuve que esperar a hablarlo en clase y ver que tenía que hacer
+con los directorios web/js/ y web/images/ . 
+
+- Integrante 2: Paula Domínguez  
+
+- Integrante 3: Jesús González Cuenca
