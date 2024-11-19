@@ -9,6 +9,6 @@ que me encontrase de forma local fuera la misma que la rama remota y no hubiera 
 Por otro lado git no permite subir directorios vacíos asi que tuve que esperar a hablarlo en clase y ver que tenía que hacer
 con los directorios web/js/ y web/images/ . 
 
-- Integrante 2: Paula Domínguez  
+- Integrante 2: Paula Domínguez Bernabe
 
 - Integrante 3: Jesús González Cuenca
