@@ -1,0 +1,54 @@
+# Instalación y despliegue del proyecto en el hosting
+
+1. **Crear la base de datos en CDMON**:
+   - Accede a tu cuenta de CDMON y abre **phpMyAdmin**.
+   - Crea una nueva base de datos llamada `alimentos32024`.
+   - Entra en la base de datos con el usuario y contraseña dado por cdmon y ve al panel de SQL.
+   - Ejecuta el siguiente script SQL para crear la tabla `alimentos`:
+   
+     ```sql
+     CREATE TABLE `alimentos` (
+       `id` int(11) NOT NULL AUTO_INCREMENT,
+       `nombre` varchar(255) NOT NULL,
+       `energia` decimal(10,0) NOT NULL,
+       `proteina` decimal(10,0) NOT NULL,
+       `hidratocarbono` decimal(10,0) NOT NULL,
+       `fibra` decimal(10,0) NOT NULL,
+       `grasatotal` decimal(10,0) NOT NULL,
+       PRIMARY KEY (`id`)
+     ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+     ```
+
+2. **Conectar al servidor mediante SSH**:
+   - Abre un terminal y conéctate al servidor con el siguiente comando SSH:
+     ssh alimento7e@185.42.105.24
+   - Accede a la carpeta donde deseas desplegar el proyecto:
+     cd ..
+     ls
+     cd web
+     ls
+     mkdir GRUPO3DAW24
+     ls
+     cd GRUPO3DAW24
+     ls
+     ```
+
+3. **Clonar el repositorio desde GitHub**:
+   - Asegúrate de tener configuradas las claves SSH de GitHub.
+   - Clona el repositorio con el siguiente comando:
+     git clone git@github.com:EscribanoC/GRUPO3DAW24.git .
+
+4. **Configurar y ejecutar el proyecto**:
+   - Sigue las instrucciones del archivo `README.md` del proyecto para configurar y ejecutar el proyecto en el servidor.
+
+5. **Contraseñas**
+   - Las contraseñas de la base de datos son:
+     - Usuario: `myalimento23`
+     - Contraseña: `icu98Nfb`
+   - Las contraseñas de la cuenta de CDMON son:
+     - Usuario: `pauladoguez`
+     - Contraseña: `Usuariopruebagrupo3`
+   - Las contraseñas de ssh son:
+     - Usuario: `alimento7e`
+     - Contraseña: `holamundogrupo3`
+     - Hosting: `185.42.105.24`
