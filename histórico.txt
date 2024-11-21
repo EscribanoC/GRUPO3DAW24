@@ -1,0 +1,17 @@
+Histórico de tareas realizadas:
+
+- Integrante 1:
+
+- Integrante 2:
+
+- Integrante 3:
+    
+    - (21/11/24): He clonado el repositorio y creado mi propia rama
+    - (21/11/24): He creado los archivos:
+        -web/index.php
+        -app/Controller.php
+        -app/Config.php
+        -histórico.txt
+    - (21/11/24): Antes de realizar la modificación del config.php, subo y mergeo mi rama con el main.
+
+- URL :
