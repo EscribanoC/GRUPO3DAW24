@@ -10,5 +10,6 @@ Por otro lado git no permite subir directorios vacíos asi que tuve que esperar 
 con los directorios web/js/ y web/images/ . 
 
 - Integrante 2: Paula Domínguez Bernabe
+    Paula ha tenido problemas a la hora de acceder a la página web creada en cdmon puesto que le denegaba el acceso, por lo que ha creado una cuenta nueva para esta actividad, guardando las contraseñas en el fichero instalacion.txt para que cada integrante pueda acceder a su página web. Le ha parecido muy cómoda la plataforma cdmon, puesto que ofrece multitud de servicios y de una forma muy visual, además de ser muy fácil de usar.
 
 - Integrante 3: Jesús González Cuenca
