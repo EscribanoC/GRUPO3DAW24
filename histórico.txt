@@ -1,10 +1,19 @@
 Histórico de tareas realizadas:
 
-- Integrante 1:
+- Integrante 1 (Carlos Escribano):
 
-- Integrante 2:
+    - (19/11/24): Creo el repositorio de GitHub y pongo como colaboradores a mis compañeros.
+    - (19/11/24): Subo los archivos de vista: /app/templates y web/css. Los directorios web/js y web/images están vacíos por los que los creo desde 'cdmon'.
+    - (19/11/24): Creo el fichero 'valoraciones.txt'.
 
-- Integrante 3:
+- Integrante 2 (Paula Domínguez):
+
+    - (20/11/24): He creado la base de datos y la tabla correspondiente con el código proporcionado
+    - (20/11/24): He creado el proyecto en cdmon con la carpeta necesaria para nuestro proyecto
+    - (21/11/24): He clonado el repositorio y he creado el archivo instalacion.txt con todas las indicaciones necesarias
+    - (21/11/24): Hago un push para subir mis cambios
+
+- Integrante 3 (Jesús González):
     
     - (21/11/24): He clonado el repositorio y creado mi propia rama
     - (21/11/24): He creado los archivos:
@@ -13,5 +22,5 @@ Histórico de tareas realizadas:
         -app/Config.php
         -histórico.txt
     - (21/11/24): Antes de realizar la modificación del config.php, subo y mergeo mi rama con el main.
-
+    - (26/11/24): Añadido el histórico de Integrante 2.
 - URL :
