@@ -22,5 +22,6 @@ Histórico de tareas realizadas:
         -app/Config.php
         -histórico.txt
     - (21/11/24): Antes de realizar la modificación del config.php, subo y mergeo mi rama con el main.
-    - (26/11/24): Añadido el histórico de Integrante 1 y 2.
-- URL :
+    - (26/11/24): Añadido el histórico de Integrante 1 y 1 y 2.
+
+- URL: alimentosgrupo3.es
