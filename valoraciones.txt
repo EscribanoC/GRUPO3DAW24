@@ -13,3 +13,4 @@ con los directorios web/js/ y web/images/ .
     Paula ha tenido problemas a la hora de acceder a la página web creada en cdmon puesto que le denegaba el acceso, por lo que ha creado una cuenta nueva para esta actividad, guardando las contraseñas en el fichero instalacion.txt para que cada integrante pueda acceder a su página web. Le ha parecido muy cómoda la plataforma cdmon, puesto que ofrece multitud de servicios y de una forma muy visual, además de ser muy fácil de usar.
 
 - Integrante 3: Jesús González Cuenca
+    Jesús no ha encontrado problemas durante la práctica. Ha trabajado en su propia rama dónde ha subido los archivos que le correspondian, ha creado historico.txt y modificado config.php con los datos que Paula dejó indicado en instalación.txt. 
