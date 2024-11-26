@@ -2,6 +2,10 @@ Histórico de tareas realizadas:
 
 - Integrante 1:
 
+    - (19/11/24): Creo el repositorio de GitHub y pongo como colaboradores a mis compañeros.
+    - (19/11/24): Subo los archivos de vista: /app/templates y web/css. Los directorios web/js y web/images están vacíos por los que los creo desde 'cdmon'.
+    - (19/11/24): Creo el fichero 'valoraciones.txt'.
+
 - Integrante 2:
 
 - Integrante 3:
